@@ -7,7 +7,7 @@ Maker Media GmbH
 # Tueroeffner
 Mit dieser kleinen Schaltung können Sie mit dem Telefon über die Fritzbox den Türöffner betätigen.
 
-### Die iedeale Ergänzung zur Türklingel-Weiterleitung auf DECT-Telefone
+### Die ideale Ergänzung zur Türklingel-Weiterleitung auf DECT-Telefone
 
 Ein Anschluss für Analog-Telefone betätigt bei Anruf per Kurzwahl den Türöffner. 
 
